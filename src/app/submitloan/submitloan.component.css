@@ -1,0 +1,50 @@
+div{
+    width: 100%;
+    margin: auto;
+}
+mat-form-field{
+    display: inline;
+    font-size: 14px;
+}
+.info-column{
+    width: 50%;
+    padding: 2%;
+    display: inline-block;
+    transition: 0.8s;
+}
+.info-column:hover{
+    background-color: rgb(189, 169, 144);
+}
+.info-column div p{
+    margin: 0px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin: 1%;
+}
+#basic-info{
+    border: 1px solid black;
+    padding: 3%;
+}
+#address{
+    border: 1px solid black;
+    padding: 3%;
+}
+#contact{
+    border: 1px solid black;
+    padding: 3%;
+}
+#employee{
+    border: 1px solid black;
+    padding: 2%;
+}
+#eaddress{
+    border: 1px solid black;
+    padding: 2%;
+}
+button{
+    margin-left: 48%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}

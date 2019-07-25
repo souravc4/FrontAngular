@@ -1,0 +1,12 @@
+.application-detail{
+    padding: 5%;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    border: 1px solid black;
+}
+.row:first-child{
+    border: 1px solid black;
+}
